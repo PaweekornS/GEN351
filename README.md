@@ -11,6 +11,6 @@ This is a simple Python GUI app (built with Tkinter) for adding drink orders to 
 
 ### ✅ Requirements
 - Installed library: gspread google-auth tk
-- A Google Cloud service account key (`credentials.json`) with access to your spreadsheet
+- A Google Cloud service account key (`credentials.json`) with access to my spreadsheet
 
 gsheet link: https://docs.google.com/spreadsheets/d/18ic5xlTyEdNp60P5Bw4Grb9X6r_HuD4MdW3gwLLOElY/edit?usp=sharing
